@@ -1,0 +1,6 @@
+#R ROM4Kx16, id 0001
+#- Deeds Rom Source Format (*.drs)
+
+#A 0000h
+#H
+0000 fffd 000a ffff 0000 ffff fffe 0000 
