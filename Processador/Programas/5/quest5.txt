@@ -1,6 +1,6 @@
 addi r1 r0 r0 0 # saida = 0
-addi r2 r0 r0 -8 # R2 x = 11
-addi r3 r0 r0 2 #R3 y = 2
+addi r2 r0 r0 65535 # R2 x = 11
+addi r3 r0 r0 65535 #R3 y = 2
 subi r3 r3 r0 1
 bleu r2 r3 5
 addi r3 r3 r0 1
